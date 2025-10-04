@@ -1,7 +1,7 @@
 # Fish-It! by ./Kraken3.5
 
 ## Features
-`- Anti AFK (auto ON)
+- Anti AFK (auto ON)
 - Disable oxygen/oxygen unlimited (auto ON)
 - Instant catch
 - Fast reel/auto click no delay
