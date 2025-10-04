@@ -1,4 +1,6 @@
 # Fish-It! by ./Kraken3.5
+
+## Features
 `- Anti AFK (auto ON)
 - Disable oxygen/oxygen unlimited (auto ON)
 - Instant catch
@@ -17,8 +19,9 @@
   - Buy rod
   - Buy bobber & gear
 - Auto trade (fishes & enchant stone)
-- Teleport (island & player)`
-Copy script:
+- Teleport (island & player)
+
+## Copy script:
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dotslashkraken35/Fish-It/refs/heads/main/loader"))()
 ```
